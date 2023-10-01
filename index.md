@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Welcome to My Documentation
+# Layblar - Changelog
 
-- [Section 1](/section1/page1.md)
-- [Section 2](/section2/page3.md)
+- [General](/pages/general.md)
+- [Backend](/pages/backend.md)
+- [App](/pages/app.md)
+- [Hardware](/pages/hardware.md)
