@@ -6,6 +6,6 @@ layout: default
 
 - [General](/pages/general.md)
 - [Backend](/pages/backend.md)
-- [Timescale](/pages/timescale.md)
+- [Timescale](/pages/Timescale.md)
 - [App](/pages/app.md)
 - [Hardware](/pages/hardware.md)
