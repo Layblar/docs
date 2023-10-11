@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [1.0.0] - 2023-10-01 ([Jakob Feistenauer](https://github.com/yescob))
+## [1.0.1] - 2023-10-11 ([Jakob Feistenauer](https://github.com/yescob))
 
 ### Added
 
