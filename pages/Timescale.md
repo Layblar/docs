@@ -31,7 +31,7 @@ docker compose up timescaledb
 ## Creating the necessary tables
 
 Hypertables are created in the TimeScaleDBSetup.sql file in the docker folder. This file will be automatically executed when the container is started.
-First create a Table with a TIMESTAMPZ field and any other necessary fields.
+First create a Table with a TIMESTAMPTZ field and any other necessary fields.
 
 ```SQL
 CREATE TABLE smart_meter_data (
