@@ -4,8 +4,8 @@ layout: default
 
 # Layblar - Changelog
 
-- [General](/pages/general.md)
-- [Backend](/pages/backend.md)
-- [Timescale](/pages/Timescale.md)
-- [App](/pages/app.md)
-- [Hardware](/pages/hardware.md)
+- [General](https://layblar.github.io/docs/pages/general.md)
+- [Backend](https://layblar.github.io/platform/pages/backend.md)
+- [Timescale](https://layblar.github.io/platform/pages/Timescale.md)
+- [App](https://layblar.github.io/layblar_app/pages/app.md)
+- [Hardware](https://layblar.github.io/layblar_esp32/pages/hardware.md)
