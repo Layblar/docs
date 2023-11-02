@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-11-2 - ([Marcel Nague](https://github.com/marcel-nague))
+
+### Changed
+- Remove Timescale from index page
+- added Timescale and Architecture to backend/platform page
+
 ## 2023-10-18 - ([Marcel Nague](https://github.com/marcel-nague))
 
 ### Changed
