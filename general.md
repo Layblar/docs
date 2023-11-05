@@ -2,9 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-11-5 - ([Jakob Feistenauer](https://github.com/yescob))
+
+### Changed
+
+- Github Logo
+- Direct Links to Subpages
+
 ## 2023-11-2 - ([Marcel Nague](https://github.com/marcel-nague))
 
 ### Changed
+
 - Remove Timescale from index page
 - added Timescale and Architecture to backend/platform page
 
