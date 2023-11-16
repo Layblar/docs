@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-11-14 - ([Marcel Nague](https://github.com/marcel-nague), [Richard Lorenz](https://github.com/fluttervieh))
+
+### Meeting
+
+- Meeting with Walter Ritter
+- Meeting documentation
+
 ## 2023-11-5 - ([Jakob Feistenauer](https://github.com/yescob))
 
 ### Changed
